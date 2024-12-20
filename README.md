@@ -7,7 +7,7 @@
 > Este proyecto aun no esta terminado, por lo que queda material por subir.
 
 > [!TIP]
-> El codigo lo puedes copiar y pegar en [OnlineGDB](https://www.onlinegdb.com/) o puedes [descargar todo](https://github.com/euphorizer/ayudantias-ayp/archive/refs/heads/main.zip) y abrirlo en [visual studio code](https://www.youtube.com/watch?v=9VE7p-he4fA)
+> El codigo lo puedes copiar y pegar en [OnlineGDB](https://www.onlinegdb.com/) o puedes [descargar todo](https://github.com/callampin/ayudantias-ayp/archive/refs/heads/main.zip) y abrirlo en [visual studio code](https://www.youtube.com/watch?v=9VE7p-he4fA)
 
 ### Contenido de las clases
 
